@@ -1,0 +1,9 @@
+name: ingenium-environment
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - numpy
+  - plotly
+  - pandas
+  - requests
