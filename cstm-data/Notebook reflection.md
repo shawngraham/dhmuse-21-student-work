@@ -1,6 +1,4 @@
-#Notebook Reflection 
-### HIST 4916
-### Niall Gladdy -101078831
+
 
 # What is this notebook about? 
 
